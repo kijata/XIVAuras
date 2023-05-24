@@ -67,7 +67,7 @@ namespace XIVAuras.Helpers
         }
 
         public static void DrawIcon(
-            ushort iconId,
+            uint iconId,
             Vector2 position,
             Vector2 size,
             bool cropIcon,

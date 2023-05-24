@@ -16,12 +16,12 @@ namespace XIVAuras.Helpers
     {
         public string Name;
         public uint Id;
-        public ushort Icon;
+        public uint Icon;
         public byte MaxStacks;
         public uint[] ComboId;
         public CombatType CombatType;
 
-        public TriggerData(string name, uint id, ushort icon, byte maxStacks = 0, uint[]? comboId = null, CombatType combatType = CombatType.PvE)
+        public TriggerData(string name, uint id, uint icon, byte maxStacks = 0, uint[]? comboId = null, CombatType combatType = CombatType.PvE)
         {
             Name = name;
             Id = id;
@@ -109,7 +109,7 @@ namespace XIVAuras.Helpers
         public float MaxValue;
         public int Stacks;
         public int MaxStacks;
-        public ushort Icon;
+        public uint Icon;
         
         public string Name = string.Empty;
         public LazyString<string?>? Name_First;

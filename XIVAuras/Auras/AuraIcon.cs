@@ -126,7 +126,7 @@ namespace XIVAuras.Auras
                     }
                     else
                     {
-                        ushort icon = style.IconOption switch
+                        uint icon = style.IconOption switch
                         {
                             0 => data.Icon,
                             1 => style.CustomIcon,
