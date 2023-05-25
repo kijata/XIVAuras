@@ -1,12 +1,12 @@
 [
     {
-        "Author": "Lichie",
-        "Name": "XIVAuras",
+        "Author": "Lichie - Fork",
+        "Name": "XIVAuras - Fork",
         "Description": "Customizable status and cooldown tracking.",
         "InternalName": "XIVAuras",
         "AssemblyVersion": "2.6.0",
         "TestingAssemblyVersion": "2.6.0",
-        "RepoUrl": "https://github.com/Kijata/XIVAuras",
+        "RepoUrl": "https://github.com/kijata/XIVAuras",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
         "IsHide": "False",
@@ -14,9 +14,9 @@
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://github.com/Kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
-        "DownloadLinkTesting": "https://github.com/Kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
-        "DownloadLinkUpdate": "https://github.com/Kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
-        "IconUrl": "https://raw.githubusercontent.com/Kijata/XIVAuras/main/XIVAuras/Media/Images/icon.png"
+        "DownloadLinkInstall": "https://github.com/kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "DownloadLinkTesting": "https://github.com/kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "DownloadLinkUpdate": "https://github.com/kijata/XIVAuras/releases/download/2.6.0/XIVAuras.zip",
+        "IconUrl": "https://raw.githubusercontent.com/kijata/XIVAuras/main/XIVAuras/Media/Images/icon.png"
     }
 ]
